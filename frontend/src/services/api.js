@@ -1,7 +1,9 @@
 import axios from 'axios';
 
+const defaultBaseUrl = import.meta.env.PROD ? '/_/backend' : 'http://localhost:5000';
+
 export const api = axios.create({
-  baseURL: import.meta.env.VITE_API_BASE_URL || 'http://localhost:5000'
+  baseURL: import.meta.env.VITE_API_BASE_URL || defaultBaseUrl
 });
 
 api.interceptors.request.use((config) => {
