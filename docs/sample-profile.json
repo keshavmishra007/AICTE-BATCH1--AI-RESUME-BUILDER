@@ -1,0 +1,60 @@
+{
+  "personal": {
+    "fullName": "Aarav Sharma",
+    "headline": "Full Stack Developer and AI Enthusiast",
+    "email": "aarav.sharma@example.com",
+    "phone": "+91 98765 43210",
+    "location": "Bengaluru, India",
+    "summary": "Computer science student focused on building reliable full stack applications and AI-enabled workflows. Comfortable with React, Node.js, Python, MongoDB, and API integration."
+  },
+  "education": [
+    {
+      "title": "B.Tech in Computer Science",
+      "organization": "ABC Institute of Technology",
+      "location": "Bengaluru",
+      "startDate": "2022",
+      "endDate": "2026",
+      "description": "Coursework in data structures, web development, databases, AI, and software engineering."
+    }
+  ],
+  "skills": ["React", "Node.js", "Express.js", "MongoDB", "Python", "FastAPI", "Tailwind CSS", "JWT", "REST APIs", "Git"],
+  "projects": [
+    {
+      "title": "CareerForge AI",
+      "organization": "IBM Edunet Internship Project",
+      "description": "Built an AI resume and portfolio builder with authentication, profile storage, resume generation, ATS analysis, and PDF downloads.",
+      "technologies": ["React", "Express", "MongoDB", "FastAPI"]
+    },
+    {
+      "title": "Campus Event Portal",
+      "organization": "College Project",
+      "description": "Created a responsive portal for event discovery, registration, and organizer dashboards.",
+      "technologies": ["React", "Node.js", "MongoDB"]
+    }
+  ],
+  "experience": [
+    {
+      "title": "Web Development Intern",
+      "organization": "TechNova Labs",
+      "description": "Implemented reusable UI components, integrated REST APIs, and improved form validation across internal tools."
+    }
+  ],
+  "achievements": [
+    "Selected for IBM Edunet AI Internship project track.",
+    "Built and presented three full stack academic projects.",
+    "Solved 150+ programming problems across data structures and algorithms."
+  ],
+  "certifications": [
+    {
+      "title": "Python for Data Science",
+      "organization": "IBM SkillsBuild",
+      "description": "Completed foundational Python and data analysis modules."
+    }
+  ],
+  "languages": ["English", "Hindi"],
+  "links": {
+    "github": "https://github.com/aaravsharma",
+    "linkedin": "https://linkedin.com/in/aaravsharma",
+    "portfolio": "https://aarav.dev"
+  }
+}
